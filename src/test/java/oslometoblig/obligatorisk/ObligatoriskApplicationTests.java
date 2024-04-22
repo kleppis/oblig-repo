@@ -1,13 +1,13 @@
-package com.example.innlevering1;
+package oslometoblig.obligatorisk;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Innlevering1ApplicationTests {
+class ObligatoriskApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
